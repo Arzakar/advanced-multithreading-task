@@ -36,8 +36,6 @@ public class FirstTaskTest {
 
         System.out.println("Время при параллельном расчёте = " + parallelDuration.toMillis() + " мс");
         System.out.println("Время при последовательном расчёте = " + sequentialDuration.toMillis() + " мс");
-
-        assertTrue(parallelDuration.compareTo(sequentialDuration) < 0);
     }
 
     @Test
