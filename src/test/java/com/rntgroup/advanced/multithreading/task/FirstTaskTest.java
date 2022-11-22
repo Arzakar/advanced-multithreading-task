@@ -1,7 +1,6 @@
 package com.rntgroup.advanced.multithreading.task;
-import com.rntgroup.advanced.multithreading.task.first.ParallelFactorialCalculator;
-import com.rntgroup.advanced.multithreading.task.first.SequentialFactorialCalculator;
-import lombok.extern.slf4j.Slf4j;
+import com.rntgroup.advanced.multithreading.task.factorial.ParallelFactorialCalculator;
+import com.rntgroup.advanced.multithreading.task.factorial.SequentialFactorialCalculator;
 import org.junit.Test;
 
 import java.math.BigInteger;

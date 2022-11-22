@@ -1,4 +1,4 @@
-package com.rntgroup.advanced.multithreading.task.fourth;
+package com.rntgroup.advanced.multithreading.task.employee;
 
 import java.util.List;
 import java.util.concurrent.CompletableFuture;

@@ -1,4 +1,4 @@
-package com.rntgroup.advanced.multithreading.task.second;
+package com.rntgroup.advanced.multithreading.task.sort;
 
 import java.util.concurrent.ForkJoinPool;
 

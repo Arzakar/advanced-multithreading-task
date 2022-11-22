@@ -1,4 +1,4 @@
-package com.rntgroup.advanced.multithreading.task.fourth;
+package com.rntgroup.advanced.multithreading.task.employee;
 
 import lombok.AccessLevel;
 import lombok.Data;

@@ -1,4 +1,4 @@
-package com.rntgroup.advanced.multithreading.task.first;
+package com.rntgroup.advanced.multithreading.task.factorial;
 
 import lombok.AccessLevel;
 import lombok.AllArgsConstructor;

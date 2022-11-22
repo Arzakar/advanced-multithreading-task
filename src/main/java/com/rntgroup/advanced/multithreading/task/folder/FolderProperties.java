@@ -1,4 +1,4 @@
-package com.rntgroup.advanced.multithreading.task.third;
+package com.rntgroup.advanced.multithreading.task.folder;
 
 import java.io.IOException;
 import java.nio.file.Files;

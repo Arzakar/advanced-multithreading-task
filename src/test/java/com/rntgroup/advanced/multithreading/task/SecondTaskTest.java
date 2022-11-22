@@ -1,6 +1,6 @@
 package com.rntgroup.advanced.multithreading.task;
 
-import com.rntgroup.advanced.multithreading.task.second.ParallelMergeSort;
+import com.rntgroup.advanced.multithreading.task.sort.ParallelMergeSort;
 import com.rntgroup.advanced.multithreading.util.NumericalArrayGenerator;
 import org.junit.Test;
 
